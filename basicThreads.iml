@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRJ_CSP_ORNAMENTAL_GARDEN/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRJ_EXER_03_CSP/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRJ_MULTI_PING_PONG/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRJ_TIC_TAC_TOE/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PRJ_00_THREADS/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

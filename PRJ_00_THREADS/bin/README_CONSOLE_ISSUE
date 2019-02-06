@@ -1,0 +1,16 @@
+CONSOLE_ISSUE
+
+Console does not display the results of some System.out.print lines.
+
+On top of Console (icon) right click and select preferences. 
+Select fixed width console.
+
+OR...
+
+To the right of Console (icon) select "word wrap"
+
+AND/OR..
+
+Window->preferences->Run/Debug->Console
+Select fixed width console
+
